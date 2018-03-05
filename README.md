@@ -1,5 +1,5 @@
 # sqlite3-to-mysql
-Python Script to convert sqlite3 SQL dump to MySQL compatible format
+Python Script to convert sqlite3 SQL dump to MySQL compatible format (Handles Foreign Key constraints)
 
 ### Python Compatibility:
 * Python 2 and 3
